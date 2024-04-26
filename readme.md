@@ -49,3 +49,5 @@ Challenge #6 A porfolio contains a collection of securities such as stocks, bond
 Mini Challenge #7: Write a code that uses Panda to read Tabular US Retirement data
 
 Mini Challenge #8: using "bank_client_df" dataframe, select high networth individuals (>= 5000), what is the combined networth for all customers with 5000+?
+
+Mini Challenge 9: Define a function that triples the networth and add 200$, apply the function to the data frame and calculate the updated total networth
