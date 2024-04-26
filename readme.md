@@ -46,4 +46,6 @@ Challenge #5 In the following matrix, replace negative elements by 0 and replace
 
 Challenge #6 A porfolio contains a collection of securities such as stocks, bonds and ETFs. Define a dataframe named 'portfolio_df' that holds 3 different stock ticker symbols, number of shares, and price per share (feel free to choose any stocks) #Calculate the total value of the porfolio including all stocks
 
-#Mini Challenge #7: Write a code that uses Panda to read Tabular US Retirement data
+Mini Challenge #7: Write a code that uses Panda to read Tabular US Retirement data
+
+Mini Challenge #8: using "bank_client_df" dataframe, select high networth individuals (>= 5000), what is the combined networth for all customers with 5000+?
